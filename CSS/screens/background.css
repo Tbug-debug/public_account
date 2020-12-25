@@ -1,0 +1,22 @@
+.background-all {
+  height: 1000vh;
+}
+
+.menue-pa__titles {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+  border-bottom: 1px solid white;
+  padding-bottom: 40px;
+  margin-left: 0px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+
+.menue-pa__titles-text {
+  color: white;
+}
+.menue-pa__titles-image {
+  margin-left: -45px;
+}
