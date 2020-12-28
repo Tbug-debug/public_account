@@ -4,10 +4,13 @@
   flex-direction: column;
   align-items: center;
   margin: 450px 0px;
-  width: auto;
+  width: 100%;
   white-space: nowrap;
   font-family: "Do Hyeon", sans-serif;
+  position: fixed;
+  top: -150px;
 }
+
 .introduce-about__money-intro {
   font-size: 35px;
 }
@@ -18,4 +21,7 @@
 .introduce-about__money-account-number {
   font-size: 30px;
   padding-top: 20px;
+}
+.introduce-image {
+  vertical-align: auto;
 }
