@@ -1,0 +1,19 @@
+.money-information {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 450px 0px;
+  width: 100%;
+  z-index: 2;
+}
+.money-information__button {
+  background-color: tomato;
+  border: none;
+  border-radius: 20%;
+  height: 150px;
+  width: 150px;
+  font-family: "Do Hyeon", sans-serif;
+  color: white;
+  font-size: 25px;
+  font-weight: 400;
+}

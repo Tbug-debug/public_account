@@ -6,15 +6,16 @@
   margin: 450px 0px;
   width: auto;
   white-space: nowrap;
+  font-family: "Do Hyeon", sans-serif;
 }
 .introduce-about__money-intro {
-  font-size: 30px;
+  font-size: 35px;
 }
 .introduce-about__money-about {
-  font-size: 30px;
+  font-size: 35px;
   padding-top: 30px;
 }
 .introduce-about__money-account-number {
-  font-size: 25px;
+  font-size: 30px;
   padding-top: 20px;
 }
