@@ -2,11 +2,4 @@
 @import "variables.css";
 @import "components/menue.css";
 @import "screens/index.css";
-@import "screens/introduction.css";
-@import "screens/information.css";
-
-@import url("https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap");
-
-body {
-  background-color: black;
-}
+@import "screens/intro.css";
