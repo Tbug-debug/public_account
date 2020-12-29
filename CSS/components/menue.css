@@ -4,7 +4,9 @@
   text-align: center;
   border-bottom: 1px solid var(--white);
   padding: 60px 0px;
+  margin-right: 50px;
   width: 100%;
+  white-space: nowrap;
 }
 
 @keyframes money {
@@ -36,8 +38,11 @@
   color: var(--white);
   font-family: "Do Hyeon", sans-serif;
   font-size: 30px;
+  padding-left: 30px;
 }
+/*
 .alt-menue-titles-title {
   z-index: 1;
   background-color: black;
 }
+*/
