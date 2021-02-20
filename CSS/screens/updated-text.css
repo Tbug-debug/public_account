@@ -1,0 +1,32 @@
+.update {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 100px;
+}
+.update1-text {
+  color: white;
+}
+.header {
+  font-size: 70px;
+}
+.date {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 20px;
+}
+.text {
+  width: 700px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+.main {
+  margin: 50px;
+  font-size: 50px;
+  text-indent: 50px;
+  text-align: center;
+}

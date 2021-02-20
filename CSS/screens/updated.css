@@ -1,0 +1,23 @@
+.updated-text {
+  color: var(--white);
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  /*border: 1px solid white;*/
+  margin-top: 50px;
+}
+.updated-html_board_text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--white);
+  border-bottom: 2px solid var(--white);
+  margin: 50px 150px;
+  padding-bottom: 5px;
+  font-size: 30px;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.updated-html_board_text:hover {
+  font-size: 32px;
+}

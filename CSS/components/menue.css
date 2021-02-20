@@ -36,9 +36,12 @@
 
 .menue-pa__titles-text {
   color: var(--white);
-  font-family: "Do Hyeon", sans-serif;
   font-size: 30px;
   padding-left: 30px;
+}
+.menue-pa__titles-text:hover {
+  font-size: 32px;
+  color: tomato;
 }
 /*
 .alt-menue-titles-title {
